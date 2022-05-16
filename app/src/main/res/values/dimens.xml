@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_padding">20dp</dimen>
+    <dimen name="item_margin">15dp</dimen>
+    <dimen name="item_image_width">20dp</dimen>
+    <dimen name="snackbar_padding_top">15dp</dimen>
+    <dimen name="skeleton_corner_radius">18dp</dimen>
+</resources>

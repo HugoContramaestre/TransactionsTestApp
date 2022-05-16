@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TransactionsTestApp</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_unexpected">Unexpected error</string>
+    <string name="common_empty_list">empty</string>
+    <string name="common_retry">retry</string>
+</resources>
